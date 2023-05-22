@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+
 body {
     background: rgb(0, 0, 0);
     background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(181, 0, 2, 1) 50%, rgba(0, 0, 0, 1) 100%);
@@ -26,31 +28,36 @@ main {
 img {
     width: 60%;
 }
-td{
+
+td {
     width: 150px;
     border: 2px black solid;
 }
-h1{
+
+h1 {
     text-align: center;
     font-size: large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: #000000;
     color: azure;
     margin: 0;
-    
+
 }
-li{
+
+li {
     list-style: none;
-    
+
     text-align: center;
     color: azure;
     font-size: large;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-th{
+
+th {
     border: 2px black solid;
 }
-li a{
+
+li a {
     text-decoration: none;
     color: azure;
 }
